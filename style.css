@@ -1,0 +1,15 @@
+.Calk{
+    background-color: rgb(229, 187, 135);
+    width: 400px;
+  border-radius: 20px;
+  padding: 20px;
+  margin-left: 150px;
+}
+
+.rezultat{
+    background-color: cornsilk;
+    width: 200px;
+    font-size: 15px;
+    padding: 20px;
+    border-radius: 20px;
+}
